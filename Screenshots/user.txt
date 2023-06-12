@@ -1,0 +1,7 @@
+user:
+username:pradip@gmail.com
+password:pqr@123
+
+Admin
+username:abc@gmail.com
+password:abc123
